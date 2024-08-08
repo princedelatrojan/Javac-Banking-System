@@ -1,0 +1,75 @@
++---------------------+
+|      Admin Login    |
++---------------------+
+| Username: [_______] |
+| Password: [_______] |
+| [Login]             |
++---------------------+
+
++---------------------+
+|   Admin Dashboard   |
++---------------------+
+| Home                |
+| Manage Users        |
+| View Transactions   |
+| Reports             |
+| Settings            |
+| Logout              |
++---------------------+
+| Welcome, AdminName  |
+|                     |
+| Summary Statistics: |
+| Total Users: 100    |
+| Total Transactions: 500 |
+| Total Balance: $100000 |
+|                     |
+| Recent Transactions |
+| ID  | User | Amount | Date       | Status |
+| 123 | 456  | $50    | 2024-01-01 | Success|
+| ... | ...  | ...    | ...        | ...    |
++---------------------+
+
++---------------------+
+|    Manage Users     |
++---------------------+
+| Search: [_________] |
+|---------------------|
+| User List:          |
+| ID | Username | Email       | Balance | Status | Actions  |
+| 1  | jdoe     | j@doe.com   | $500    | Active | [Edit]   |
+|    |          |             |         |        | [Delete] |
+|    |          |             |         |        | [View]   |
+| ...| ...      | ...         | ...     | ...    | ...      |
+|---------------------|
+| [Add New User]      |
++---------------------+
+
++---------------------+
+|  View Transactions  |
++---------------------+
+| Search: [_________] |
+|---------------------|
+| Transaction List:   |
+| ID  | User | Amount | Date       | Status | Type    |
+| 123 | 456  | $50    | 2024-01-01 | Success| Deposit |
+| ... | ...  | ...    | ...        | ...    | ...     |
++---------------------+
+
++---------------------+
+|       Reports       |
++---------------------+
+| [User Activity Report]    |
+| [Transaction Summary Report] |
+| [Generate Report]          |
++---------------------+
+
++---------------------+
+|      Settings       |
++---------------------+
+| [Change Password]   |
+| [Update Profile]    |
+|---------------------|
+| System Settings:    |
+| [General Settings]  |
+| [Security Settings] |
++---------------------+
